@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body {
+  background-image: url(/images/bg-stars.svg);
+  /* background-size: co; */
+  background-repeat: no-repeat;
+  background-color: #211d2b;
+  font-family: "Red Hat Text", sans-serif;
+}
+.header {
+  letter-spacing: 7px;
+  font-weight: bold;
+}
+.box {
+  background-color: #34364f;
+  color: #f85e82;
+  @apply flex justify-center items-center text-6xl  font-bold rounded-md w-32 h-24;
+}
+.box-name {
+  color: #818098;
+  letter-spacing: 2px;
+  @apply uppercase pt-5 text-sm font-semibold;
+}
+footer {
+  background-image: url(/images/pattern-hills.svg);
+  /* object-fit: contain; */
+  background-repeat: no-repeat;
+}
