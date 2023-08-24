@@ -28,3 +28,14 @@ footer {
   object-fit: cover;
   background-repeat: no-repeat;
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: #b7b6d3;
+  /* background-color: white; */
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
