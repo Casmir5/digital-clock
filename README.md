@@ -17,7 +17,7 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ## Overview
 
-this is real time clock that gives the accurate time within in a region at all
+This is real time clock that gives the accurate time within any region at all
 
 ### The challenge
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 learned how to use javascript date and using internationalizing apis to format date and time
 
-- I also to learned how to use set interval in a real world application
+I also to learned how to use set interval in a real world application
 
 ### Useful resources
 
@@ -58,4 +58,4 @@ learned how to use javascript date and using internationalizing apis to format d
 
 ## Acknowledgments
 
-i really want to appreciate jonas schmedtmann for his amazing javascript course
+i really want to appreciate jonas schmedtmann for his amazing Javascript course
