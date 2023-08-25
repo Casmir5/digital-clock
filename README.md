@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://digital-clock-chidubem.netlify.app)
+- Live Site URL: [Digital clock](https://digital-clock-chidubem.netlify.app)
 
 ### Built with
 
@@ -50,7 +50,7 @@ learned how to use javascript date and using internationalizing apis to format d
 
 ### Useful resources
 
-- [Javascript course](https://www.udemy.com/course/the-complete-javascript-course/) - This helped me course helped me soo much in understanding how javasscript date works . this is the best javascript course anyone could have wished for.
+- [Javascript course](https://www.udemy.com/course/the-complete-javascript-course/) - This hcourse helped me soo much in understanding how javasscript date works . this is the best javascript course anyone could have wished for.
 
 ## Author
 
